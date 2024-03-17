@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 👨‍💻 All of my projects are available at [Under inspection](Under inspection)
+<!-- - 👨‍💻 All of my projects are available at [Under inspection](Under inspection) -->
 
-- 📝 I regularly write articles on [Under inspection](Under inspection)
+<!-- - 📝 I regularly write articles on [Under inspection](Under inspection) -->
 
 - 💬 Ask me about **Python, ML**
 
