@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **winder24962@gmail.com**
 
-- 📄 Know about my experiences [Under inspection](Under inspection)
+<!-- - 📄 Know about my experiences [Under inspection](Under inspection) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
