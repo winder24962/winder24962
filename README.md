@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 💬 Ask me about **Python, ML**
+- 💬 Ask me about **Python, Web Development, ML, DL**
 
 - 📫 How to reach me **winder24962@gmail.com**
 
