@@ -1,10 +1,6 @@
 <h3 align="center">Cyber Security & Artificial Intelligence Researcher</h3>
 
-<--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winder24962&label=Profile%20views&color=0e75b6&style=flat" alt="winder24962" /> </p>
--->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=winder24962" alt="winder24962" /></a> </p>
 
 - 💬 Ask me about **Cyber Security, Web Development, Python, ML, DL**
 
